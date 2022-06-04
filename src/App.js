@@ -44,7 +44,6 @@ function App() {
       <Header />
       <Skills />
       <Contact />
-      <Parent></Parent>
     </>
   );
 }
