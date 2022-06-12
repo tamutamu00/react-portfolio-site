@@ -1,4 +1,4 @@
-import { Box, Center, Container, List, ListItem, UnorderedList } from "@chakra-ui/react"
+import { Box, Container, List } from "@chakra-ui/react"
 import { Icon } from '@chakra-ui/react'
 
 export const Skills = () => {

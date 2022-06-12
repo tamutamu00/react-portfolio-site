@@ -3,7 +3,6 @@ import CoverImage from '../images/cover-image.jpg';
 import ProfileImage from '../images/profile-image.jpg';
 import { FaGithub } from 'react-icons/fa';
 import { Navbar } from './atoms/Navbar';
-import { Center } from '@chakra-ui/react';
 
 export const Header = () => {
   return (

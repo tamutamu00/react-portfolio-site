@@ -1,5 +1,3 @@
-import { Center } from "@chakra-ui/react";
-
 export const Contact = () => {
   return (
     // <Center>
