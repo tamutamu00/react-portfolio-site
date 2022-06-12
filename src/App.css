@@ -3,7 +3,7 @@ body {
   font-weight: 400;
   font-size: 32px;
   line-height: 1.7;
-  color: #4d4d4d;
+  color: #4d4d0d;
   background: #fff;
 }
 
@@ -97,6 +97,12 @@ h3 {
 .title-text {
   color: white;
   position: relative;
+  margin-bottom: 1rem;
+}
+
+.profile {
+  display: inline-block;
+  border-bottom: solid 1px white;
 }
 
 .icon-link {
@@ -125,7 +131,7 @@ h3 {
 }
 
 .contact {
-  background: rgba(48, 191, 230, 0.88);
+  background: rgba(48, 149, 190, 0.7);
 }
 
 .contact-contents {
